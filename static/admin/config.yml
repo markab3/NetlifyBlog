@@ -1,5 +1,7 @@
 backend:
-  name: test-repo
+  name: github
+  repo: markab3/NetlifyBlog
+  branch: master
 
 media_folder: static/assets
 public_folder: /assets
